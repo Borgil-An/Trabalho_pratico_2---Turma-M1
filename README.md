@@ -14,6 +14,8 @@ Segundo 1: Encher um copo de água fria e um copo de água morna.
 Segundo 2: Encher um copo de água morna e um copo de água quente.
 Segundo 3: Encher um copo de água morna e um copo de água quente.
 Segundo 4: Encher um copo de água morna.
-Pode ser demonstrado que 4 é o número mínimo de segundos necessários
+Pode ser demonstrado que 4 é o número mínimo de segundos necessários.
 
 O que funcionou ou não: Não funcionou tentar resolver o exercicio somente por lógica matématica de divisão e soma, tive que pensar um pouco mais profundamente para dar certo.
+
+Casos que deu certo: Todos que o leetcode testou.
